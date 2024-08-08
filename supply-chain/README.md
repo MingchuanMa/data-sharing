@@ -1,7 +1,7 @@
-Import/Export Critical Materials Visualization using Plotly
+## Import/Export Critical Materials Visualization using Plotly
 This Jupyter Notebook provides code and data for visualizing the flow of Import/Export Critical Materials with Sankey diagrams. Sankey diagrams are effective tools for visualizing the flow of data, resources, or energy between different stages or nodes. This project is written under Python 3.9 environment.
 
-Prerequisites
+##Prerequisites
 Before running, ensure you have the following packages installed:
 
 plotly
@@ -10,11 +10,11 @@ pandas
 matplotlib (for pylab functionality)
 
 
-Input Data Structure
+##Input Data Structure
 See the DATA file for details. 
 
-Usage
-To use this notebook:
+##Usage
+###To use this notebook:
 Open the notebook in Jupyter Notebook or JupyterLab.
 Ensure you have the necessary data files and libraries installed.
 Use the Example section to input your data. 
@@ -30,9 +30,9 @@ export_tree_diagram_preprocess(n3s,all_data_code,country_code,product_code,new_t
 export_sankey_diagram(n3s,all_data_code,country_code,product_code,new_trio,target_country_name)
     This function draws a Sankey diagram to visualize the export OD of n3s
 
-License
+##License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Reference
+##Reference
 Gaulier, G. and Zignago, S. (2010). BACI: International Trade Database at the Product Level. The 1994-2007 Version. CEPII Working Paper, N°2010-23.
 
