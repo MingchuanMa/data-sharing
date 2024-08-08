@@ -12,6 +12,7 @@ matplotlib (for pylab functionality)
 
 ## Input Data Structure
 See the DATA file for details. 
+The difference between the data from 2017 and 2022 lies in the product codes. There are 145 product codes that only appear in the 2017 product codes file, and 370 product codes that only appear in the 2022 product codes file.
 
 ## Usage
 ### To use this notebook:
