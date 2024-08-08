@@ -14,7 +14,7 @@ matplotlib (for pylab functionality)
 See the DATA file for details. 
 
 ## Usage
-###To use this notebook:
+### To use this notebook:
 Open the notebook in Jupyter Notebook or JupyterLab.
 Ensure you have the necessary data files and libraries installed.
 Use the Example section to input your data. 
